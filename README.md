@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GCENS
 
 Guide des outils de cyberapprentissage enseignant
@@ -22,3 +23,9 @@ Ajout de la section Questionnaire - modification d’une question dans un questi
 =======================
 Révision linguistique
 
+=======
+GPS
+===
+
+Gabarit de paquetage SCORM de la Commission scolaire de Laval
+>>>>>>> aa5c9fb7e1b1ab7a6ca5fe5d002de5d297c83e92
